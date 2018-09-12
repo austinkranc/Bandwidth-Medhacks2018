@@ -1,3 +1,5 @@
+**UPDATE**: Bandwidth won 2nd place at MedHacks2018 at Johns Hopkins University, as well as best use of Google Cloud Platform
+
 # Bandwidth-Medhacks2018
 Early DVT Detection Sensory Band
 
